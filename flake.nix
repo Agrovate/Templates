@@ -7,7 +7,7 @@
         path = ./rust;
         description = "Simple Rust template";
       };
-      rust = {
+      fenix = {
         path = ./fenix;
         description = "Simple Fenix a Rust toolchain template";
       };
