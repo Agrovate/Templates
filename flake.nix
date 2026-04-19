@@ -11,6 +11,10 @@
         path = ./fenix;
         description = "Simple Fenix a Rust toolchain template";
       };
+      uv = {
+        path = ./uv;
+        description = "Simple Python flake with uv template";
+      };
     };
   };
 }
