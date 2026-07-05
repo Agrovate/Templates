@@ -15,6 +15,10 @@
         path = ./uv;
         description = "Simple Python flake with uv template";
       };
+      c = {
+        path = ./c;
+        description = "Simple C flake";
+      };
     };
   };
 }
